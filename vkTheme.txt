@@ -1,0 +1,139 @@
+#page_header_cont .back {
+	background: url(https://psv4.userapi.com/c834502/u247348873/docs/d16/34e18dfb615d/vkHeader.png?extra=P-HOAN1bpyQSJeuOSSwC6hTAB20Rbzg1HMk6HlRy7MJXaKQFEYDI18c_teaxUf5fGuVrGITK7cBPq5_Kv9GifzE8RDCkRaNDlFStDojLwTRKXr7dSWwOUfCqKh8YhxLE8CoitaC99nKHD6Q) no-repeat;
+	width: 1920px;
+    height: 41px;
+	background-size: 100%;
+	border: none;
+    }
+
+.top_audio_player
+.top_audio_player_btn
+.top_audio_player_btn_icon {
+	opacity: 1;
+	}
+
+.top_profile_arrow {
+	opacity: 1;
+	}
+
+input.text.ts_input {
+	background: none;
+	border: 2px solid;
+	border-radius: 12px;
+	color: #FFFFFF;
+	font-weight: bold;
+	font-size: 14px;
+	}
+
+input.text.ts_input:focus {
+	background: none;
+	color: #FFFFFF;
+	}
+
+.top_notify_count {
+	border: none;
+	background: none;
+	left: 30px;
+	font-size: 12px;
+	}
+
+.top_audio_player
+.top_audio_player_title {
+	color: #FFFFFF;
+	font-weight: bold;
+	font-size: 14px;
+	}
+
+.top_audio_player:hover {
+	background: none;
+	}
+
+.top_nav_link {
+	color: #FFFFFF;
+	font-weight: bold;
+	font-size: 14px;
+	}
+
+.top_nav_link:hover {
+	background: none;
+	}
+
+.top_nav_link.active{
+	background: none;
+	}
+
+.top_nav_btn#top_notify_btn:hover
+.top_nav_btn_icon {
+	background: url("data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2220%22%20height%3D%2220%22%20viewBox%3D%220%200%2020%2020%22%3E%3Cpath%20fill%3D%22%23fff%22%20fill-rule%3D%22evenodd%22%20d%3D%22M8%2C18%20C6.64583333%2C18%205.5%2C17.3%205.5%2C16%20L10.5%2C16%20C10.5%2C17.3%209.35416667%2C18%208%2C18%20Z%20M13.9956933%2C11%20C13.9956933%2C12.5%2016%2C12.5%2016%2C13.5%20C16%2C14%2016%2C15%2013.8955984%2C15%20L1.98430985%2C15%20C-6.19060359e-13%2C15%20-1.62536651e-13%2C14%20-1.63424829e-13%2C13.5%20C-1.63369318e-13%2C12.5%201.98430985%2C12.5%202%2C11%20L2%2C8%20C2%2C4%204.09724901%2C1.5%207%2C1.1%20L7%2C1%20C7%2C0.4%207.5%2C5.74053187e-17%208%2C0%20C8.5%2C0%209%2C0.4%209%2C1%20L9%2C1.1%20C11.902751%2C1.5%2013.9956933%2C4%2013.9956933%2C8%20L13.9956933%2C11%20Z%22%20transform%3D%22translate(2%201)%22%2F%3E%3C%2Fsvg%3E");
+	}
+
+.top_nav_btn:hover {
+	background: none;
+	}
+
+.current_audio_icon {
+	background: url(https://image.flaticon.com/icons/svg/214/214347.svg) no-repeat;
+	opacity: 1;
+	width: 20px;
+	height: 16px;
+	margin: 2px 0 0;
+	}
+
+.wall_module .post_like_icon {
+	background: url(https://image.flaticon.com/icons/svg/291/291212.svg) no-repeat;
+	opacity: 0.7;
+	width: 20px;
+	height: 16px;
+	margin: 0 0 0;
+	}
+
+.wall_module .like_icon {
+	background: url(https://image.flaticon.com/icons/svg/291/291212.svg) no-repeat;
+	width: 16px;
+	height: 12px;
+	margin: 1px 0 0;
+	}
+
+.pv_like_icon {
+	background: url(https://image.flaticon.com/icons/svg/291/291212.svg) no-repeat;
+	opacity: 0.7;
+	width: 20px;
+	height: 16px;
+	margin: 0 0 0;
+	}
+
+.wall_module .post_reply_icon {
+	background: url(https://image.flaticon.com/icons/svg/134/134887.svg) no-repeat;
+	opacity: 1;
+	width: 20px;
+	height: 16px;
+	margin: 0 0 0;
+	}
+
+.wall_module .post_share_icon {
+	background: url(https://image.flaticon.com/icons/svg/214/214347.svg) no-repeat;
+	opacity: 1;
+	width: 20px;
+	height: 16px;
+	margin: 0 0 0;
+	}
+
+.wall_module .post_views_icon {
+	background: url(https://image.flaticon.com/icons/svg/159/159604.svg) no-repeat;
+	opacity: 0.5;
+	width: 20px;
+	height: 16px;
+	margin: -1px 0 0;
+	}
+
+.top_nav_btn#top_notify_btn
+.top_nav_btn_icon {
+	background: url("data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2220%22%20height%3D%2220%22%20viewBox%3D%220%200%2020%2020%22%3E%3Cpath%20fill%3D%22%23fff%22%20fill-rule%3D%22evenodd%22%20d%3D%22M8%2C18%20C6.64583333%2C18%205.5%2C17.3%205.5%2C16%20L10.5%2C16%20C10.5%2C17.3%209.35416667%2C18%208%2C18%20Z%20M13.9956933%2C11%20C13.9956933%2C12.5%2016%2C12.5%2016%2C13.5%20C16%2C14%2016%2C15%2013.8955984%2C15%20L1.98430985%2C15%20C-6.19060359e-13%2C15%20-1.62536651e-13%2C14%20-1.63424829e-13%2C13.5%20C-1.63369318e-13%2C12.5%201.98430985%2C12.5%202%2C11%20L2%2C8%20C2%2C4%204.09724901%2C1.5%207%2C1.1%20L7%2C1%20C7%2C0.4%207.5%2C5.74053187e-17%208%2C0%20C8.5%2C0%209%2C0.4%209%2C1%20L9%2C1.1%20C11.902751%2C1.5%2013.9956933%2C4%2013.9956933%2C8%20L13.9956933%2C11%20Z%22%20transform%3D%22translate(2%201)%22%2F%3E%3C%2Fsvg%3E");
+	}
+
+.ts_wrap
+.input_back_content{
+	color: #FFFFFF;
+	font-weight: bold;
+	font-size: 14px;
+	}
