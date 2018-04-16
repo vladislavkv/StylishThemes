@@ -1,12 +1,12 @@
 body {
-	background: url(https://psv4.userapi.com/c834700/u247348873/docs/d13/cdebdf967e4c/vkBackground.png?extra=Vv5KB30Bej02g-6Sve_pHNydnXGjhshHJAom66ilg9IoHc92CmGhYAU6uTx_CvVaQykFAf2DpsvmvKkkR7KOTmw-kuc6MJhAulwnbcpn6yjp0mjUYa6l4_Xs41u-wVdX4F46LBsgotkO);
+	background: url(https://psv4.userapi.com/c834700/u247348873/docs/d13/5f167611e775/vkBackground.png?extra=D7I8OIyvdgxkd3IfKYhIl6aLcAYfW8rJHZFYJjeypyL27zF0KCQAC7c8rMsQFa7wKwm20l4wZ15YuQDJFa-emfF5JfW2un0Wn8Umhk3Mv9sIUhs075ylXNN8D9qH2NmdbJ1ABC5RHm6T0KH4);
 	width: 1920px;
 	height: 1080px;
 	background-size: 100%;
 	}
 
 #page_header_cont .back {
-	background: url(https://psv4.userapi.com/c834502/u247348873/docs/d16/34e18dfb615d/vkHeader.png?extra=P-HOAN1bpyQSJeuOSSwC6hTAB20Rbzg1HMk6HlRy7MJXaKQFEYDI18c_teaxUf5fGuVrGITK7cBPq5_Kv9GifzE8RDCkRaNDlFStDojLwTRKXr7dSWwOUfCqKh8YhxLE8CoitaC99nKHD6Q) no-repeat;
+	background: url(https://psv4.userapi.com/c834502/u247348873/docs/d16/0e75d4462958/vkHeader.png?extra=8dIYux3kb7p_Vi9v0O1hPFiyJZL6Ez5Z7xJhr1ruMxKOUR0VM6SHlfyFJ8tJQE1TIc0dTYzcbeN2ZHbVQP37P1Ar6_JGlBOiBvHTOJWhyzcpDP1mvxGwlvvPZwhd0iAi32P2OeHBSA83n_zj) no-repeat;
 	width: 1921px;
     height: 42px;
 	background-size: 100%;
